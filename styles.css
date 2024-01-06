@@ -159,7 +159,7 @@ article section h2 {
     font-size: 36px;
 }
 
-/* the mock-up did not have a footer so I input display: none;. */
+/* the mock-up did not have a footer so I input display none. */
 .footer {
     display: none;
     padding: 30px;
